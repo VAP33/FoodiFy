@@ -1,4 +1,4 @@
-# McDonald's Order System
+# Foodify Order System
 
 This is a C-based simulation program for a simple ordering system. It models a restaurant where customers can place food and beverage orders from a predefined menu, and the system will calculate the total bill based on their choices. The program features case-insensitive comparison, input length validation, and dynamic order display.
 
@@ -77,4 +77,4 @@ To compile and run the program, you will need:
 If you're running this outside of the CS50 environment, you can install the CS50 library with the following command on a Unix-like system:
 
 ```bash
-sudo apt-get install libcs50-dev
+sudo apt-get install libcs50
